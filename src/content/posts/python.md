@@ -1,10 +1,10 @@
 ---
-title: python
+title: Python
 published: 2025-03-29 22:00:00
-category: 编程
+category: 编程语言
 ---
 
-# 1. python简介
+# 1. Python简介
 
 Python 是一个高层次的结合了解释性、编译性、互动性和面向对象的脚本语言。
 

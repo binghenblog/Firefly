@@ -1,7 +1,7 @@
 ---
 title: Claude Code 完整安装与配置教程
 published: 2026-05-15 9:00:00
-category: 工具教程
+category: AI工具教程
 ---
 
 # Claude Code 完整安装与配置教程
@@ -232,6 +232,8 @@ claude                    # 启动
 如果你想要中文界面，可以安装社区汉化插件：
 
 [taekchef/claude-code-zh-cn](https://github.com/taekchef/claude-code-zh-cn)
+
+开源桌宠（支持claudecode、codex等）：[clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk)
 
 ---
 

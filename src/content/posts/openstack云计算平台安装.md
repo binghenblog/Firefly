@@ -1,7 +1,7 @@
 ---
 title: OpenStack Train 云计算平台安装与管理指南
 published: 2025-11-21 12:00:00
-category: 云计算, 系统管理
+category: [云计算, 系统管理, Linux]
 ---
 
 # OpenStack Train 云计算平台安装指南

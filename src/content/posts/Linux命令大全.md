@@ -2,7 +2,7 @@
 title: Linux命令大全
 published: 2024-12-26 12:20:00
 updated: 2026-05-10 20:00:00
-category: 系统
+category: Linux
 ---
 
 本文档整理了Linux系统中常用的各类命令，方便日常使用和查阅。

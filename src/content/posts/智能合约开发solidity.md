@@ -1,7 +1,7 @@
 ---
 title: 智能合约开发solidity
 published: 2026-01-03 11:00:00
-category: 编程
+category: 编程语言
 ---
 # 智能合约开发solidity
 

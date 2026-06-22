@@ -1,13 +1,13 @@
 ---
-title: docker
+title: Docker
 published: 2026-04-20 9:00:00
 updated: 2026-05-10 20:00:00
-category: linux
+category: Linux
 ---
 
 实例系统：CentOS7
 
-### docker基础命令
+### Docker基础命令
 
 ```shell
 # 拉取镜像（如官方Nginx镜像）
