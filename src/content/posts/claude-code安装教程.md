@@ -2,6 +2,7 @@
 title: Claude Code 完整安装与配置教程
 published: 2026-05-15 9:00:00
 category: AI工具教程
+tags: [AI, Claude-Code]
 ---
 
 # Claude Code 完整安装与配置教程

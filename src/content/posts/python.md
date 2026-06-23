@@ -2,6 +2,7 @@
 title: Python
 published: 2025-03-29 22:00:00
 category: 编程语言
+tags: [Python]
 ---
 
 # 1. Python简介

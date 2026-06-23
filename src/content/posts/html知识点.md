@@ -2,6 +2,7 @@
 title: HTML5知识点
 published: 2025-01-12 16:00:00
 category: Web前端开发
+tags: [Web, html]
 ---
 
 # HTML5介绍

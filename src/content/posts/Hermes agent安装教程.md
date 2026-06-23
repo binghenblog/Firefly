@@ -2,6 +2,7 @@
 title: Hermes agent安装教程
 published: 2026-05-21 19:00:00
 category: AI工具教程
+tags: [AI, Hermes]
 ---
 
 # 简介

@@ -3,6 +3,7 @@ title: Docker
 published: 2026-04-20 9:00:00
 updated: 2026-05-10 20:00:00
 category: Linux
+tags: [Linux, Docker]
 ---
 
 实例系统：CentOS7
