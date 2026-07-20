@@ -81,7 +81,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				"有志者，事竟成。",
 				"顺境中不无隐忧和烦恼，逆境中不无慰藉和希望。",
 				"天行健，君子以自强不息。",
-				"去发光，而不是被照亮。"
+				"去发光，而不是被照亮。",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
