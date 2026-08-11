@@ -34,18 +34,18 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	});
 
 	//社交及其子菜单
-	links.push({
-		name: "社交",
-		url: "#",
-		icon: "material-symbols:group",
-		children: [
-			// 友链
-			LinkPresets.Friends,
-
-			// 留言
-			LinkPresets.Guestbook,
-		],
-	});
+	//links.push({
+	//	name: "社交",
+	//	url: "#",
+	//	icon: "material-symbols:group",
+	//	children: [
+	//		// 友链
+	//		LinkPresets.Friends,
+	//
+	//		// 留言
+	//		LinkPresets.Guestbook,
+	//	],
+	//});
 
 	// 我的及其子菜单
 	links.push({
@@ -60,18 +60,18 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			LinkPresets.Gallery,
 
 			// 追番
-			LinkPresets.Anime,
+			//LinkPresets.Anime,
 
 			// VNDB
-			LinkPresets.VNDB,
+			//LinkPresets.VNDB,
 
 			// 番组计划
-			LinkPresets.Bangumi,
-
-			// 书签导航
-			LinkPresets.Booknav,
+			//LinkPresets.Bangumi,
 		],
 	});
+
+	// 书签导航
+	links.push(LinkPresets.Booknav);
 
 	// 关于及其子菜单
 	links.push({
@@ -80,74 +80,10 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		icon: "material-symbols:info",
 		children: [
 			// 打赏
-			LinkPresets.Sponsor,
+			//LinkPresets.Sponsor,
 
 			// 关于页面
 			LinkPresets.About,
-		],
-	});
-
-	// 自定义导航栏链接
-	links.push({
-		name: "链接",
-		url: "#",
-		icon: "material-symbols:link",
-		// 子菜单
-		children: [
-			{
-				name: "GitHub",
-				url: "https://github.com/",
-				external: true,
-				icon: "fa7-brands:github",
-			},
-			{
-				name: "github下载加速代理",
-				url: "https://gh-proxy.com/",
-				external: true,
-				icon: "fa7-brands:github",
-			},
-			{
-				name: "HelloWindows",
-				url: "https://hellowindows.cn/",
-				external: true,
-				icon: "fa7-brands:microsoft",
-			},
-			{
-				name: "MSDN系统库",
-				url: "https://www.xitongku.com/index.html",
-				external: true,
-				icon: "fa7-brands:microsoft",
-			},
-			{
-				name: "steam++",
-				url: "https://steampp.net/",
-				external: true,
-				icon: "fa7-brands:steam",
-			},
-			{
-				name: "阿里镜像站",
-				url: "https://developer.aliyun.com/mirror/",
-				external: true,
-				icon: "fa7-brands:battle-net",
-			},
-			{
-				name: "华为镜像站",
-				url: "https://mirrors.huaweicloud.com/home/",
-				external: true,
-				icon: "fa7-brands:battle-net",
-			},
-			{
-				name: "清华大学镜像站",
-				url: "https://mirrors.tuna.tsinghua.edu.cn/",
-				external: true,
-				icon: "fa7-brands:battle-net",
-			},
-			{
-				name: "中科大镜像站",
-				url: "https://mirrors.ustc.edu.cn/",
-				external: true,
-				icon: "fa7-brands:battle-net",
-			},
 		],
 	});
 
