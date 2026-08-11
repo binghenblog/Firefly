@@ -154,8 +154,8 @@ async function getIconSvg(iconName) {
 function generateIconsFile(iconsMap) {
 	const iconEntries = Array.from(iconsMap.entries())
 		.sort(([a], [b]) => a.localeCompare(b))
-		.map(([name, svg]) => `\t"${name}":\n\t\t'${svg.replace(/'/g, "\\'")}'`)
-		.join(",\n");
+		.map(([name, svg]) => `\t"${name}":\n\t\t'${svg.replace(/'/g, "\\'")}',`)
+		.join("\n");
 
 	const content = `/**
  * 自动生成的图标数据文件
