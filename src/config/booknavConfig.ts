@@ -65,12 +65,6 @@ export const booknavConfig: BooknavGroup[] = [
 				desc: "一个功能强大且灵活的 CSS 框架",
 				weight: 6,
 			},
-			{
-				title: "GitHub 下载加速",
-				url: "https://gh-proxy.com/",
-				desc: "GitHub 文件下载加速代理",
-				weight: 5,
-			},
 		],
 	},
 	{
@@ -130,10 +124,22 @@ export const booknavConfig: BooknavGroup[] = [
 				weight: 10,
 			},
 			{
+				title: "Ainexis Tools",
+				url: "https://tools.ainexis.cn/",
+				desc: "免费在线工具箱",
+				weight: 9,
+			},
+			{
+				title: "图吧工具箱",
+				url: "https://tubawinui3.cn/",
+				desc: "WinUI3重构版",
+				weight: 9,
+			},
+			{
 				title: "Squoosh",
 				url: "https://squoosh.app",
 				desc: "Google 出品的图片压缩与格式转换",
-				weight: 9,
+				weight: 8,
 			},
 			{
 				title: "Carbon",
@@ -181,6 +187,18 @@ export const booknavConfig: BooknavGroup[] = [
 				title: "Sakura Frp | 樱花内网穿透",
 				url: "https://www.natfrp.com/",
 				desc: "免费内网穿透服务",
+				weight: 1,
+			},
+			{
+				title: "GitHub 下载加速",
+				url: "https://gh-proxy.com/",
+				desc: "GitHub 文件下载加速代理",
+				weight: 1,
+			},
+			{
+				title: "GenOffice",
+				url: "https://genoffice.ai/",
+				desc: "开源AI办公套件",
 				weight: 1,
 			},
 		],
